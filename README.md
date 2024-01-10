@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hannah López 
+## 🎻 musician
+## 👩🏻‍🏫 teaching artist
+## 💻 web developer in the making
+
+<br />
+
+### Languages and Tools:
 
 <!--
 **HannahLVH/HannahLVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
