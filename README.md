@@ -1,7 +1,7 @@
 # Hannah López 
 ## 🎻 musician
 ## 👩🏻‍🏫 teaching artist
-## 💻 web developer in the making
+## 💻 full-stack developer in the making
 
 <br />
 
